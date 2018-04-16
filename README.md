@@ -1,4 +1,3 @@
-# Hello-World
-Following Tutorial
-This an official statement.
-Prepare yourselves for the subjugation.
+# Sandbox Test Lab
+
+Just learning how to use GitHub.
